@@ -42,4 +42,6 @@
 ### Working On: 🚀
 - 🔭 **CISC Processor Simulator:** Simulating complex instruction set computing with a sleek UI and powerful features. [Explore More](https://github.com/IoannTerrible/CISCP_Processor)
 - 🎛 **Pello:** A desktop application to optimize project development and task management. [Check it Out](https://github.com/nailNumber6/Project_Manager)
-- 🎥 **Video Processing UI:** Distributed solution with advanced video processing capabilities. [See Details](https://github.com/IoannTerrible/MlStartTasks)
+- 🚦 **Client-Server Application for Traffic Sign Recognition:** A distributed solution for recognizing traffic signs.
+- 📰 **News Website on Django:** Coming soon.
+- 📝 **Resume Website:** Under development.
