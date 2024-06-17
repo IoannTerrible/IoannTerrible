@@ -33,7 +33,7 @@
 </p>
 
 <p align="left" style="font-family: 'Arial', sans-serif;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ioannterrible&show_icons=true&theme=dark&locale=en" alt="ioannterrible's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ioannterrible&show_icons=true&theme=vue&locale=en" alt="ioannterrible's GitHub stats" />
 </p>
 <p align="left" style="font-family: 'Arial', sans-serif;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioannterrible&theme=dark" alt="ioannterrible's GitHub streak" />
